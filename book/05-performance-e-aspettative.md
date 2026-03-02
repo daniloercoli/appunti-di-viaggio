@@ -1,0 +1,9 @@
+# Performance review e aspettative in un team remoto
+
+La performance review in un contesto remoto non dovrebbe trasformarsi in un esercizio di controllo. Il remoto non cambia ciò che conta; cambia la visibilità. Se l’organizzazione reagisce aumentando la sorveglianza, ottiene effetti collaterali prevedibili: riduzione dell’autonomia, aumento dell’ansia e peggioramento della qualità delle decisioni. Se invece reagisce migliorando trasparenza e criteri, ottiene un sistema più sano.
+
+In un contesto cloud/data e applicazioni legate ad ADAS/AD, è utile distinguere tra output e impatto. L’output è ciò che viene prodotto (codice, documentazione, pipeline, modelli dati, dashboard, servizi). L’impatto è ciò che cambia nel sistema (stabilità, riduzione incidenti, miglioramento prestazioni, riduzione tempi di rilascio, miglioramento data quality, riduzione del rischio security, incremento dell’osservabilità, maggiore resilienza). La maturità di un’organizzazione si vede da quanto riesce a premiare l’impatto, non solo l’output.
+
+Le aspettative per un ruolo tecnico dovrebbero essere esplicite e coerenti con il livello. Non basta “consegnare”. Serve comunicare in modo affidabile, collaborare, contribuire alla qualità e proteggere la sostenibilità del sistema. Allo stesso modo, le aspettative per un Team Lead non sono “fare di più” sul piano operativo, ma rendere il team più efficace: chiarire priorità, rimuovere blocchi, garantire tracciabilità delle decisioni, curare la qualità del processo e mantenere un contesto umano sostenibile nel tempo.
+
+Un’ultima nota riguarda la crescita. Nei team distribuiti la crescita rischia di essere meno visibile, quindi va resa intenzionale. Questo significa creare occasioni di ownership, incoraggiare la scrittura di documentazione e RFC, valorizzare il mentoring e rendere trasparenti i criteri di passaggio di livello.

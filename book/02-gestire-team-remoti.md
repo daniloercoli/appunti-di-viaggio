@@ -1,0 +1,11 @@
+# Gestire team remoti in un contesto Cloud/Data/ADAS
+
+La gestione di un team remoto non coincide con la gestione del tempo delle persone. Coincide con la gestione della chiarezza. In presenza, molte ambiguità vengono assorbite da conversazioni spontanee e sincronizzazioni informali; da remoto, le stesse ambiguità diventano attrito. Il compito della leadership è ridurre quell’attrito attraverso aspettative esplicite, contesti condivisi e decisioni tracciabili.
+
+In un’azienda che lavora su cloud, datalake e piattaforme per ADAS/guida autonoma, la complessità non è solo tecnica. È anche organizzativa: dipendenze tra team, requisiti in evoluzione, responsabilità su dati sensibili, necessità di auditabilità e qualità. Un team remoto efficace è quello che riesce a muoversi con autonomia senza perdere allineamento.
+
+Il punto di partenza è definire cosa significa “done” in modo condiviso. Nel software tradizionale questa definizione può essere già difficile; nel software automotive diventa un elemento di governance. “Done” non è solo “merge in main”. Include test, osservabilità, documentazione, gestione del rischio, e spesso implica passaggi formali o vincoli di compliance. Quando queste aspettative sono implicite, il remoto amplifica la variabilità; quando sono esplicite, il remoto diventa un acceleratore.
+
+Un secondo elemento chiave è la delega. Delegare in remoto non significa distribuire task; significa distribuire responsabilità entro confini chiari. La persona deve sapere qual è l’obiettivo, quali sono i vincoli (ad esempio security e data governance), quali sono i criteri di qualità, e quando è opportuno richiedere un checkpoint. Una delega senza confini genera ansia o paralisi; una delega con confini ragionevoli genera velocità e ownership.
+
+Infine, la coesione. In un team distribuito la coesione non arriva “gratis”. Va mantenuta con rituali leggeri ma regolari, e soprattutto con un sistema di comunicazione che non dipenda dalla presenza. La coesione non serve per fare “cultura aziendale da poster”, ma per ridurre il costo di coordinamento e aumentare la capacità del team di affrontare momenti di pressione senza frammentarsi.

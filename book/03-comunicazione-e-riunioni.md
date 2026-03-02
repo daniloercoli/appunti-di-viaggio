@@ -1,0 +1,11 @@
+# Comunicazione e riunioni: disciplina, non quantità
+
+Nel lavoro remoto la comunicazione è un sistema, non un flusso spontaneo. Quando il sistema non è progettato, il risultato tipico è una combinazione di rumore e silenzi: troppe call per cose che potrebbero essere asincrone, e troppo poche tracce scritte per le decisioni che contano.
+
+La regola che tende a funzionare meglio in contesti cloud/data è privilegiare l’asincrono come modalità predefinita e usare il sincrono in modo deliberato. L’asincrono consente di ridurre l’interruzione continua, gestire i fusi orari e mantenere traccia. Il sincrono è insostituibile quando serve convergere rapidamente su una decisione, quando il tema è sensibile o quando occorre allineare prospettive differenti in tempi brevi.
+
+Il meeting, in particolare, non dovrebbe esistere senza un esito atteso. In un’azienda che lavora su sistemi complessi è utile distinguere tra meeting di esplorazione (dove l’esito è una lista di ipotesi e next step) e meeting di decisione (dove l’esito è una scelta registrata, con owner e follow-up). In entrambi i casi, la tracciabilità è cruciale: agenda condivisa, note durante il meeting, recap finale e action item.
+
+Il caso più delicato è quello delle riunioni ibride. L’ibrido è sostenibile quando si adotta una mentalità remote-first. Significa che chi è remoto deve avere le stesse condizioni informative e la stessa possibilità di intervenire di chi è in sala. In pratica, questo si traduce in accorgimenti operativi: documenti condivisi in tempo reale, facilitazione della conversazione, turni di parola gestiti e, dove necessario, scelte tecniche che evitino la “sala che parla tra sé” lasciando i remoti in ascolto passivo.
+
+Nei meeting con clienti o stakeholder esterni, la disciplina diventa ancora più importante. Nel dominio cloud/data e ADAS/AD, molte incomprensioni nascono da contesti incompleti o da aspettative non allineate. Un recap sintetico e accurato dopo la call è spesso il modo più economico per evitare settimane di lavoro in direzioni divergenti.
